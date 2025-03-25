@@ -1,0 +1,25 @@
+.class-example {
+    background-color: lightcoral;
+    font-size: 20px;
+}
+
+#id-example {
+    color: blue;
+    font-size: 30px;
+}
+
+.cooler-class-example {
+    background-color: lightcoral;
+    font-size: 23px;
+}
+
+#another-id-example {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.class-five {
+    background-color: lightcoral;
+    font-size: 20px;
+}
